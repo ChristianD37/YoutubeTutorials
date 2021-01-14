@@ -6,6 +6,6 @@ This is a repository for the code written in my youtube tutorials. Feel free to 
 
 Also consider subscribing to my youtube channel:
 
-[![Youtube Channe](https://github.com/ChristianD37/YoutubeTutorials/blob/master/readme%20images/logo.gif)(https://www.youtube.com/channel/UCB2mKxxXPK3X8SJkAc-db3A)]
+[![Youtube Channe](https://github.com/ChristianD37/YoutubeTutorials/blob/master/readme%20images/logo.gif)](https://www.youtube.com/channel/UCB2mKxxXPK3X8SJkAc-db3A)
 
 Hope you learn a lot : )
