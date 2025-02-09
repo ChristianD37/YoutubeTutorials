@@ -1,0 +1,124 @@
+VIDEO_ID,TEXT,PUBLISHED_AT
+b_DkQrJxpck,Terrific video on an important topic. Very helpful.,2024-06-18T18:11:26Z
+b_DkQrJxpck,"Thank you very much, bro!
+Excellent and clearly understandable example",2024-05-12T20:29:20Z
+b_DkQrJxpck,"man I have rewatched this video so many times this weekend, you made me change my whole code
+this video literally took me out of tutorial hell, 100% recommended
+I never understood inheritance and how to pass a whole game object into another engine object until now... you made me convert all of my noob code into very concise functions...
+this is one of the best tutorials and channels I've found so far about pygame, thanks! please keep the videos coming you're an amazing teacher!",2024-02-19T19:38:31Z
+b_DkQrJxpck,"Hey friend, how do I create usable items, like potions, in PyGame?",2024-02-01T13:38:41Z
+b_DkQrJxpck,Awesome info! Thank you so much :),2023-08-25T06:04:08Z
+b_DkQrJxpck,Great tutorial! Do you have any idea how to add a txt map to the game world?,2023-03-10T14:42:51Z
+b_DkQrJxpck,WOAH!,2023-02-05T17:01:58Z
+b_DkQrJxpck,"Thanks a lot for this! I 've been learning to program with pygame and its been hard. Your explanations are good and i just changed it a little to fit my first project.
+I also run self.state_stack[-1].events() in main loop events so i can control diferent set of keys :)",2023-02-01T15:42:36Z
+b_DkQrJxpck,Your tutorials are the best I’ve seen!!,2023-01-09T23:52:49Z
+b_DkQrJxpck,"Honestly one of the worst tutorials for someone who has already been building a game for a while, hard to implement and pair up  variables from your specific use case, to mine.",2023-01-09T17:42:09Z
+b_DkQrJxpck,thank you so much for this video! you are the best!!,2022-11-26T15:51:06Z
+b_DkQrJxpck,"Excellent tutorial! I've been looking into game screens using state pattern and this is really helpful.
+
+The only thing I missed was a state diagram showing the state and their transitions, without it it's too magical (too much on-the-mind vs on-the-world knowledge) to know where to put the key handlers + enter_state calls.",2022-08-24T16:50:37Z
+b_DkQrJxpck,it doesn't work  can u help me  ? i want to change the player where can I  found it ? and I want to add more menu,2022-08-01T07:47:49Z
+b_DkQrJxpck,"This really brings some structure into my game loop. But I still have 3 questions:
+1. What do we use the game.state_stack variable for? I understand that it represents the state stack, but why do we need it when all the state instances are chained together?
+2. Why do we check if the state stack's length is > 1 before we add the entering state on top? Wouldn't that mean that if its length is exactly 1, nothing would ever be added?
+3. Game.update() only says ""pass"" - how is control transferred to the various states?",2022-07-05T19:27:17Z
+b_DkQrJxpck,"Great tutorial and explanation! I have a quick question: using this OOP template, how would one add text to menus?",2022-06-24T23:44:40Z
+b_DkQrJxpck,Thank you! What an amazing tutorial.,2022-03-31T13:53:29Z
+b_DkQrJxpck,"Very thx you for your tutorials.
+Very clean/clear. I appreciate to observe your organisation/structuration of your code too.
+Thx a lot !!",2022-03-14T09:44:41Z
+b_DkQrJxpck,I watched your video on how to create a tilemap but how would i implement it into something like this,2022-02-22T23:09:02Z
+b_DkQrJxpck,OMG I am currently participating in a game jam and your tutorials are SO USEFUL !!! thank you so much for doing them ! you deserve so much more views !,2022-02-08T20:06:44Z
+b_DkQrJxpck,"I did this and now idk how to continue, are any videos continuing parts of this one?",2022-02-03T19:07:17Z
+b_DkQrJxpck,"What is 'states.state'. It doesnt seem to be working for me. saying something like 
+' from states.Title import Title
+
+
+
+ModuleNotFoundError: No module named 'states.Title'; 'states' is not a package'",2021-12-07T20:09:27Z
+b_DkQrJxpck,underrated.,2021-11-28T11:24:59Z
+b_DkQrJxpck,What a great video!,2021-11-16T07:35:01Z
+b_DkQrJxpck,"Hey Christian, thank you for all that videos, they was very helpful for me. 
+I'm creating the Plants vs Zombies in Pygame. It's almost done, but I need to implement a leaderboard function in this project, using SQLite (DataBase).
+Can you have any idea to how can I create this ?
+
+Thanks for the help!!",2021-11-02T19:02:37Z
+b_DkQrJxpck,"Thanks for this. Can I ask, how to apply collision for the player?",2021-10-22T08:35:35Z
+b_DkQrJxpck,"This is fantastic!!! I wish you would make a series around this simple concept.  Like two small tile maps (or images) that you toggle between when you reach an edge (is that a new state? ). Or using text with a changing menu box size.  Ex. If you expand magic maybe you’ve earned fire so one size box and later get healing.  How do you automatically change the menu size instead of manually coding a different box.  Or making a long string of text auto return inside a standard box for dialogue.    
+
+I think your videos are best because it feels like you are setting us up to make large polished complicated games.",2021-09-04T18:28:06Z
+b_DkQrJxpck,"Awesome video! Question though, you wrote  from states.state import State in the title.py module because it refers to the top level script?",2021-08-02T10:36:55Z
+b_DkQrJxpck,"I love your tutorials , they are very clear and helpful for newbies, could you make a inventory system tutorial in pygame ?  Thanks",2021-07-23T15:24:53Z
+b_DkQrJxpck,Really helpful thank you. Hope to see more soon,2021-07-22T11:13:32Z
+b_DkQrJxpck,"please make a video on how to create mario game with pygame . Pleaseee, i need you help",2021-07-07T08:56:01Z
+b_DkQrJxpck,love your content! thanks a bunch.,2021-06-26T22:01:54Z
+b_DkQrJxpck,"I was pausing and typing in your code along with the video. I'm using Sublime, so I'm running the game from the terminal. I kept getting a black screen, so I started searching for errors. I gave up and just copy and pasted all your code. I'm still just getting a blank pygame window when I run it. Any suggestions?",2021-06-25T05:50:33Z
+b_DkQrJxpck,Why does it have so few views?? I think everyone should learn from this video,2021-06-24T14:33:33Z
+b_DkQrJxpck,"I love the words "" hi there "" so much 🤣🤣🤣 it's so cute",2021-06-24T14:31:46Z
+b_DkQrJxpck,I was finding this type of vidoe only,2021-06-23T06:37:47Z
+b_DkQrJxpck,"Epic
+
+
+
+
+I have no idea about anything you said in this video.",2021-06-23T00:57:06Z
+b_DkQrJxpck,Oh my god this video was amazing,2021-06-23T00:20:37Z
+Q6CCdCBVypg,"Hey everybody! In the spirit of learning, here are some ideas you can try and implement if you finished the video and are looking to add a bit more to this project.
+
+Exercise: Allow the players to put in their names so it doesn't just say ""Player 1"" and ""Player 2"" 
+Exercise: Add a timer to the game so that each player only has a certain amount of time to make a decision (hint: checkout the built in ""time"" module)
+Exercise: Add an option to replay the game when it ends. Also add a game counter to keep track of how many times each player has won.
+
+Challenge Exercise: Add a single player mode with some AI functionality for the second player. It doesn't need to be a fancy algorithm, just think about how you can have the program make a valid move. Once you get it working, see if you can come up with something better! 
+
+
+Happy coding!",2022-08-10T06:46:48Z
+Q6CCdCBVypg,i don't know if this is begginer tutorial. There are lots of lambda functions to save lines.,2024-12-06T20:06:28Z
+Q6CCdCBVypg,"It was a great tutorial, very easy to follow. But one thing i am not able to grasp completely. Why did we call the check_turn function to check who the winner is? I mean the check turn function only returns the number of turn. Or what i am able to understand is, that as soon as the player 1 (let's say) is done with their final winning turn, this function return that and the winner is declared! please help me understand this. thankyou!
+And once again, great tutorial!",2024-10-21T10:10:44Z
+Q6CCdCBVypg,Thank you,2024-07-23T15:06:16Z
+Q6CCdCBVypg,Thank you,2024-07-07T11:35:24Z
+Q6CCdCBVypg,yo is that visual code? or smth cuz i see it familiar,2024-05-12T16:52:47Z
+Q6CCdCBVypg,Amazing,2024-05-05T12:46:37Z
+Q6CCdCBVypg,such an awesome tutorial.,2024-04-27T06:42:24Z
+Q6CCdCBVypg,thank you for an amazing video. However im a little confused about line 19 in main file. How does that check if there is an X or O. The last part isnt even  a dictionary. Id appreciate a response thanks :),2024-01-04T03:11:47Z
+Q6CCdCBVypg,Which application are you using??,2023-12-23T14:06:22Z
+Q6CCdCBVypg,"""churn"" lol",2023-12-03T10:02:25Z
+Q6CCdCBVypg,"its not working, at 2:03 draw_board has a red line underneath it so it isnt working im doing everything the video tells me to",2023-11-09T13:14:22Z
+Q6CCdCBVypg,This is a well put together tutorial video. Thanks for making it!,2023-10-21T17:55:44Z
+Q6CCdCBVypg,I don't understand how prev_turn == turn results in an invalid entry. Can someone help me understand?,2023-09-24T05:12:21Z
+Q6CCdCBVypg,Ok always x wins.. 🤣,2023-07-03T22:24:43Z
+Q6CCdCBVypg,amazing video!! 3:11 which keys did you use to convert them instantly? or was it cropped part of the video?,2023-06-14T12:42:43Z
+Q6CCdCBVypg,"This is amazing, thanks",2023-04-28T16:49:52Z
+Q6CCdCBVypg,i have just started python and it was very  good experience thanks,2023-04-04T10:49:23Z
+Q6CCdCBVypg,Thank you! This was a great learning experience for me to follow along with and rebuild. Taught me some new tricks as a beginner to Python and was useful for fulfilling a project requirement for my course work.,2023-02-20T21:46:51Z
+Q6CCdCBVypg,Thank you for the video.  I tweaked the code so that you could choose 1 or 2 players and play the computer.,2023-01-02T03:45:37Z
+Q6CCdCBVypg,can it be run on vs code?,2022-12-27T07:31:13Z
+Q6CCdCBVypg,"Hi! I think your logic is great here! I am very much a beginner in python and am curious if you have any *hints* to implemting another game play? does turn = 0 need to be reset somehow? 
+I am trying to implent best 2/3 gameplay to your code. I feel very far off. I started as:
+
+if finished:
+    if what_turn(turn) == 'X':
+        print(""Player1 is the Winner!"")
+    else:
+        print(""Player2 is the Winner!"")
+else:
+    print(""NO game!"")
+    print('Do you want to play again?(Y/N)')
+    play_again = input().lower()
+    gameplay = True
+    if play_again == 'n':
+        gameplay= False
+        print('\nThanks for playing!')",2022-12-09T13:40:35Z
+Q6CCdCBVypg,my code isn't that great (it's almost twice as long as yours) but the game works perfectly.,2022-12-03T20:10:00Z
+Q6CCdCBVypg,"Omg, i really need to learn a lot. I tried to do this exercise by my self and ended up contemplating bout suicide, I wish I was a pro like you at problem solving",2022-11-14T22:31:22Z
+Q6CCdCBVypg,bruh you literally destroy programmer who are making hour length video just for this simple code,2022-09-29T16:51:28Z
+Q6CCdCBVypg,there's a correction in the exit section if choice=='q' it should'nt be playing =false instead ......if choice =='q' exit(),2022-08-15T09:43:27Z
+Q6CCdCBVypg,Thank you!,2022-07-05T18:19:35Z
+Q6CCdCBVypg,Your turtorials are amazing! You deserve more support!,2022-04-30T12:22:59Z
+Q6CCdCBVypg,Underrated,2022-04-23T03:21:11Z
+Q6CCdCBVypg,Fantastic work!,2022-04-06T04:44:48Z
+Q6CCdCBVypg,Great to see you back! You are the best Pygame youtuber and your tutorials help me a TON.,2022-04-06T01:25:19Z
+Q6CCdCBVypg,"Good to see you back! You still have, by far, the best tutorial on the Game States I've ever seen.",2022-04-05T23:35:12Z
+Q6CCdCBVypg,Wow so cool,2022-04-05T22:53:18Z
